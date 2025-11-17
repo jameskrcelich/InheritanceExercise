@@ -48,10 +48,6 @@ namespace Inheritance
                 Console.WriteLine($"Is Apex Predator: {animal.IsApex}");
                 Console.WriteLine($"It lives by {animal.Habitat}");
             }
-            
-            
-
-            
         }
     }
 }
